@@ -3,3 +3,10 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+.error {
+  color: red;
+  font-size: 18px;
+  margin-top: 16px;
+  font-weight: 700;
+}
